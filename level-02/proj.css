@@ -1,0 +1,127 @@
+h1
+{
+	color: black;
+	text-shadow: 1px 1px 1px black;
+  font-size: 35px;
+	text-align: center;
+	padding: 5px;
+}
+
+
+.but1
+{
+   	color:	white;
+	  background-color: blue;
+  	text-align: center;
+	  padding: 20px;
+	  margin-left: 33% ;
+    margin-right: 33% ;
+    margin-bottom: 33px  ;
+    border-radius: 10px;
+  	font-family:Times New Roman, Helvetica, sans-serif; 
+ }
+
+
+.but2
+{
+	color:	white;
+	text-align: center;
+	padding: 20px;
+	margin-left:13%;
+  	margin-right: 13%;
+  	margin-bottom: 10px;
+  	border-radius: 5px;
+  	font-family:Times New Roman, Helvetica, sans-serif; 
+}
+
+.but1 a
+{
+	color: white;
+	font-size: 20px;
+  text-decoration: none;
+}
+
+.but1 a:hover{
+  font-size: 25px;
+}
+
+div
+{
+	text-align: center;
+}
+
+
+	
+.form1
+{
+	margin-top: 100px;
+	margin-left: 10%;
+}
+
+.form1 label  
+{
+display: block;
+padding-bottom: 20px;
+font-size: 26px;
+font-weight: bold;
+font-family: sans-serif;
+color: #2d3436;
+text-align: left;
+margin-left: 10%;
+}
+
+.form1 .form-group
+{
+padding: 20px;
+}
+
+.form1 input[type="text"]{
+	width: 80%;
+	padding: 10px;
+
+	border-radius: 10px;
+	border-style: none;
+	border: 2px #636e72 solid;
+}
+
+.b1{
+
+  border: 3px #95a5a6 solid;
+    padding: 8px 15px;
+   
+    border-radius: 5px;
+    background-color:#95a5a6;
+       
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+.b1:hover
+{
+	 /*background-color: #c0392b;*/
+   background-color: #a0402c;
+    color: azure;
+    border-color:#c0392b;
+}
+
+.b2{
+  border: 2px #2ecc71 solid;
+    padding: 10px 10px;
+    width: 100px;
+    border-radius: 5px;
+    background-color:#2ecc71;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+}
+
+.department
+{
+  width: 80%;
+  padding: 10px;
+  border-radius: 5px;
+  border-style: none;
+  border: 2px #636e72 solid;
+
+}
